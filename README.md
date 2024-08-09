@@ -3,7 +3,7 @@
 <p id="description">AutoType Express is a Python-powered tool that simulates typing at customizable speeds. Perfect for automation testing, this script mimics human typing with precision, offering a versatile solution for any scenario requiring automated text input. Whether you're testing software, demonstrating features, or creating controlled typing environments, AutoType Express delivers speed and accuracy in automated typing tasks.</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="shields">
+    <img src="https://img.shields.io/badge/pypi-v2.44.1" alt="shields">
     <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields">
 </p>
 
