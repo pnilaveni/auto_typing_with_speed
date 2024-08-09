@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/pypi-v2.44.1-blue" alt="shields">
     <img src="https://img.shields.io/badge/pyton-v2.x|3.x-blue" alt="shields">
     <img src="https://img.shields.io/badge/License-MIT-green" alt="shields">
-    <img src="https://img.shields.io/badge/Platform-Windows|MAC|Linux-ash" alt="shields">
+    <img src="https://img.shields.io/badge/Platform-Windows|MAC|Linux-red" alt="shields">
     <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields">
 </p>
 
